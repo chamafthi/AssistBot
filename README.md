@@ -20,7 +20,7 @@ Assistbot is a chatbot application built with Django Rest Framework (DRF), Postg
 
 1. Clone the project:
    ```bash
-   git clone https://github.com/your_username/Assistbot.git
+   git clone https://github.com/chamafth/Assistbot.git
    cd Assistbot
    ```
 
@@ -63,4 +63,3 @@ Assistbot is a chatbot application built with Django Rest Framework (DRF), Postg
    ```bash
    npm run dev
    ```
-
